@@ -1,0 +1,21 @@
+
+.topnav {
+    display: flex;
+    background-color: #c4e0bf;
+    justify-content: center;
+}
+
+/* Style the topnav links */
+.topnav a {
+    display: block;
+    color: #6495a2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
